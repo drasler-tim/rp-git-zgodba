@@ -14,3 +14,4 @@
 7. Glejte ukazno vrstico za nadaljnja navodila.
 
 vesolje
+42
